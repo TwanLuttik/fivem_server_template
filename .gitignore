@@ -1,3 +1,7 @@
 _server_7z.download.log.txt
 server.7z
 server
+txData
+data/cache
+start_*_default.bat
+data
